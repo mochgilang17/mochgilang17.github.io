@@ -1,0 +1,38 @@
+.headline{
+    width: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+            display: flex;
+            justify-content: baseline;
+            align-items: flex-start;
+            flex-wrap: wrap;
+            margin: 50;
+            padding-top: 56px; /* Tinggi navbar */
+            background-image: url(background.jpg);
+            background-size: 100%;
+        }
+
+.card {
+            margin: 10px;
+        }
+
+#isi-aboutme{
+            margin: 10px;
+        }
+
+.mt-0{
+    line-height: 2;
+}
+
+.teks{
+    color: whitesmoke;
+    line-height: 0.3;
+}
+
+li{
+    line-height: 1;
+}
